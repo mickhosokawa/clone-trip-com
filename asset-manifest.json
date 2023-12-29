@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clone-trip-com.github.io/static/css/main.883b3562.css",
+    "main.js": "/clone-trip-com.github.io/static/js/main.f854ed6b.js",
+    "index.html": "/clone-trip-com.github.io/index.html",
+    "main.883b3562.css.map": "/clone-trip-com.github.io/static/css/main.883b3562.css.map",
+    "main.f854ed6b.js.map": "/clone-trip-com.github.io/static/js/main.f854ed6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.883b3562.css",
+    "static/js/main.f854ed6b.js"
+  ]
+}
