@@ -1,0 +1,12 @@
+.cutom-style {
+    background-color: #fff; /* 背景色 */
+    padding: 1rem; /* パディング */
+    border:none;
+}
+
+.search-container {
+    width: 100%;
+    border: gray solid 1px;
+    border-radius: 4px;
+    margin-right: 8px;
+}
