@@ -37,6 +37,8 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.4.0"
-  }
+  },
+  "homepage": "https://mickhosokawa.github.io/clone-trip-com.github.io/"
 }
